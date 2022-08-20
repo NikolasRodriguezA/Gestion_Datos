@@ -6,6 +6,7 @@ Realizando un análisis exploratorio del dataset se dan respuesta a las siguient
 
 1.¿Qué tipo de variables tiene el dataset? Detalle el tipo de variable de cada columna.
 
+![Test Image 4](https://github.com//NikolasRodriguezA/Gestion_Datos/tree/main/img/Variables.PNG)
 
 2. ¿Qué tipo de problemas de calidad de datos logra identificar? Defina e implemente las estrategias de limpieza de datos que correspondan.
 
