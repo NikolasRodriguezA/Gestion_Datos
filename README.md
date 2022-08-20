@@ -6,7 +6,7 @@ Realizando un análisis exploratorio del dataset se dan respuesta a las siguient
 
 1.¿Qué tipo de variables tiene el dataset? Detalle el tipo de variable de cada columna.
 
-![Test Image 4](https://github.com//NikolasRodriguezA/Gestion_Datos/tree/main/img/Variables.PNG)
+![Test Image 4](/img/Variables.PNG)
 
 #   Column                       Non-Null Count  Dtype  
 ---  ------                       --------------  -----  
